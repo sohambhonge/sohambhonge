@@ -1,12 +1,25 @@
-#  About Me:
-Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and data visualization. Skilled in data cleaning, exploratory data analysis (EDA), and building interactive dashboards to generate actionable insights. Passionate about solving real-world problems using data-driven approaches.
+<!-- Typing Animation Header -->
+<h1 align="center">Hi 👋, I'm Soham Bhonge</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%26+Visualization;Dashboard+Developer;Web+Scraping+Enthusiast" />
+</p>
+
+<!-- Contact Buttons -->
+<p align="center">
+  <a href="https://linkedin.com/in/sohambhonge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sohambhonge73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohambhonge) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohambhonge) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohambhonge73@gmail.com)
+# About Me:
+Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and data visualization. Skilled in data cleaning, exploratory data analysis (EDA), and building interactive dashboards to generate actionable insights. Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
@@ -51,6 +64,19 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and dat
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sohambhonge&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohambhonge&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohambhonge&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohambhonge&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🚀 Focus Areas
 - Data Analysis & Visualization  
@@ -58,6 +84,3 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and dat
 - SQL & Database Management  
 - Web Scraping & Data Extraction  
 
----
-
-[![](https://visitcount.itsvg.in/api?id=sohambhonge&icon=0&color=0)](https://visitcount.itsvg.in)
