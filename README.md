@@ -32,6 +32,12 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and dat
 
 ---
 
+### 📦 Libraries
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
 ### 📊 Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/LookerStudio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
