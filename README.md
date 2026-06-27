@@ -35,7 +35,9 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and dat
 ### 📦 Libraries
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Joblib](https://img.shields.io/badge/joblib-3776AB?style=flat&logo=python&logoColor=white)
 ---
 
 ### 📊 Data Analysis & Visualization
